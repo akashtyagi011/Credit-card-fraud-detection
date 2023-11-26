@@ -1,1 +1,1 @@
-# Credit-card-fraud-detection
+This objective of this project is Identification of the fraudulant activity or any suspicious event happened in the bank credit card transactions by their customers.this will help to identify and prevent any loss to their customers.
